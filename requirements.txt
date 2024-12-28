@@ -1,7 +1,7 @@
 click
 colorama
 dataclasses
-Flask==2.0.3
+Flask
 importlib-metadata
 itsdangerous
 Jinja2
